@@ -16,7 +16,7 @@ contract BlockChainGame_Contract {
     // event
     // 當有新訊息的時候，可以把資料發送給前端
     event NewMessageEvent(
-        string _message;
+        string _message
     );
 
     // 建構子(初始化的概念)
